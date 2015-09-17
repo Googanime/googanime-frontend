@@ -1,4 +1,0 @@
-module('JSHint - routes');
-test('routes/search.js should pass jshint', function() { 
-  ok(false, 'routes/search.js should pass jshint.\nroutes/search.js: line 14, col 7, Expected \'{\' and instead saw \'return\'.\nroutes/search.js: line 14, col 13, Missing semicolon.\nroutes/search.js: line 83, col 26, Expected \'!==\' and instead saw \'!=\'.\n\n3 errors'); 
-});

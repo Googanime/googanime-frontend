@@ -1,4 +1,0 @@
-module('JSHint - models');
-test('models/anime.js should pass jshint', function() { 
-  ok(true, 'models/anime.js should pass jshint.'); 
-});

@@ -1,4 +1,0 @@
-module('JSHint - helpers');
-test('helpers/query-param.js should pass jshint', function() { 
-  ok(true, 'helpers/query-param.js should pass jshint.'); 
-});
