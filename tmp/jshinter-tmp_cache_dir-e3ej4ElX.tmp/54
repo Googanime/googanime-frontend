@@ -1,0 +1,4 @@
+module('JSHint - routes');
+test('routes/search.js should pass jshint', function() { 
+  ok(false, 'routes/search.js should pass jshint.\nroutes/search.js: line 85, col 26, Expected \'!==\' and instead saw \'!=\'.\n\n1 error'); 
+});
